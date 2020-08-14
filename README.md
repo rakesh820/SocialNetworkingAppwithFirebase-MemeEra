@@ -15,7 +15,7 @@ As with other social networking platforms, MemeEra users can like, comment on an
 
 Create a Project in Firebase,add your app into the Project, download JSON and put into the Project Folder.
 
- ![google_services_json]https://github.com/rakesh820/SocialNetworkingAppwithFirebase-MemeEra/issues/6#issue-678494138
+![download](https://user-images.githubusercontent.com/57454647/90148847-71fb7700-dda1-11ea-8844-428886f1ccd6.png)
  
 # Screenshots
 
