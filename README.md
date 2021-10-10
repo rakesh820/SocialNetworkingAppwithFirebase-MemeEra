@@ -15,23 +15,22 @@ As with other social networking platforms, MemeEra users can like, comment on an
 
 Create a Project in Firebase,add your app into the Project, download JSON and put into the Project Folder.
 
-![download](https://user-images.githubusercontent.com/57454647/90148847-71fb7700-dda1-11ea-8844-428886f1ccd6.png)
- 
+ ![90148847-71fb7700-dda1-11ea-8844-428886f1ccd6](https://user-images.githubusercontent.com/57454647/136692534-669eb9fe-f06d-423a-a793-ec1ce152c2a3.png)
+
 # Screenshots
 
-Some cool screenshots of this app
+Some cool UI screenshots of this app
  
 # LoginPage
- ![Screenshot_1](https://user-images.githubusercontent.com/57454647/90148244-bf2b1900-dda0-11ea-863a-4a1f0fd723e7.jpg)
- 
+ ![90148244-bf2b1900-dda0-11ea-863a-4a1f0fd723e7](https://user-images.githubusercontent.com/57454647/136692574-01019839-8500-4f03-a631-7600b8f6181f.jpg)
 # HomePage
- ![Screenshot_2](https://user-images.githubusercontent.com/57454647/90148505-01545a80-dda1-11ea-86c9-1524ffa98486.jpg)
- 
-![Screenshot_3](https://user-images.githubusercontent.com/57454647/90148588-1a5d0b80-dda1-11ea-89f3-8d14a9179363.jpg)
-  
+![90148505-01545a80-dda1-11ea-86c9-1524ffa98486](https://user-images.githubusercontent.com/57454647/136692580-bc33529a-2746-4bd9-a524-7065f971bb9c.jpg)
+![90148588-1a5d0b80-dda1-11ea-89f3-8d14a9179363](https://user-images.githubusercontent.com/57454647/136692581-3edb8abb-8531-4df2-a9f5-ceae878231db.jpg)
+
 # ProfilePage
-![Screenshot_4](https://user-images.githubusercontent.com/57454647/90148654-306acc00-dda1-11ea-889d-36863cb1440e.jpg)
+![90148654-306acc00-dda1-11ea-889d-36863cb1440e](https://user-images.githubusercontent.com/57454647/136692587-93c60bb4-5e08-456e-82d1-5ec94e55bf99.jpg)
   
 # ChatPage
-![Screenshot_5](https://user-images.githubusercontent.com/57454647/90148704-42e50580-dda1-11ea-9894-c33ada04b2f3.jpg)
+
+![90148704-42e50580-dda1-11ea-9894-c33ada04b2f3](https://user-images.githubusercontent.com/57454647/136692598-a09e0034-5575-4de7-93aa-603876b9127c.jpg)
 
