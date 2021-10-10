@@ -22,7 +22,7 @@ Create a Project in Firebase,add your app into the Project, download JSON and pu
 Some cool UI screenshots of this app
  
 # LoginPage
- ![90148244-bf2b1900-dda0-11ea-863a-4a1f0fd723e7](https://user-images.githubusercontent.com/57454647/136692574-01019839-8500-4f03-a631-7600b8f6181f.jpg)
+ ![90148244-bf2b1900-dda0-11ea-863a-4a1f0fd723e7](https://user-images.githubusercontent.com/57454647/136692574-01019839-8500-4f03-a631-7600b8f6181f.jpg){:height="50%" width="50%"}
  
 # HomePage
 ![90148505-01545a80-dda1-11ea-86c9-1524ffa98486](https://user-images.githubusercontent.com/57454647/136692580-bc33529a-2746-4bd9-a524-7065f971bb9c.jpg)
