@@ -23,6 +23,7 @@ Some cool UI screenshots of this app
  
 # LoginPage
  ![90148244-bf2b1900-dda0-11ea-863a-4a1f0fd723e7](https://user-images.githubusercontent.com/57454647/136692574-01019839-8500-4f03-a631-7600b8f6181f.jpg)
+ 
 # HomePage
 ![90148505-01545a80-dda1-11ea-86c9-1524ffa98486](https://user-images.githubusercontent.com/57454647/136692580-bc33529a-2746-4bd9-a524-7065f971bb9c.jpg)
 ![90148588-1a5d0b80-dda1-11ea-89f3-8d14a9179363](https://user-images.githubusercontent.com/57454647/136692581-3edb8abb-8531-4df2-a9f5-ceae878231db.jpg)
@@ -31,6 +32,5 @@ Some cool UI screenshots of this app
 ![90148654-306acc00-dda1-11ea-889d-36863cb1440e](https://user-images.githubusercontent.com/57454647/136692587-93c60bb4-5e08-456e-82d1-5ec94e55bf99.jpg)
   
 # ChatPage
-
 ![90148704-42e50580-dda1-11ea-9894-c33ada04b2f3](https://user-images.githubusercontent.com/57454647/136692598-a09e0034-5575-4de7-93aa-603876b9127c.jpg)
 
